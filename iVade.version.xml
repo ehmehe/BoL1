@@ -1,4 +1,6 @@
 <?xml version="1.0"?>
 <versionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.03</Version>
+  <MessageTitle>TestTitle</MessageTitle>
+  <Message>TestMessage</Message>
 </versionInfo>
