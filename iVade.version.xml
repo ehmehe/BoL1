@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <versionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Version>1.05</Version>
+  <Version>1.06</Version>
   <MessageID>AlwaysShow</MessageID>
   <Message></Message>
 </versionInfo>
