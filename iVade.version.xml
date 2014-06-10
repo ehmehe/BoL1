@@ -2,5 +2,5 @@
 <versionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.06</Version>
   <MessageID>AlwaysShow</MessageID>
-  <Message></Message>
+  <Message>Packet usage (RecvPacket and SendPacket callbacks) is broken since the last update so iVade and other scripts may not work correctly. Spadgy is aware of this and will be fixed soon (tm).</Message>
 </versionInfo>
