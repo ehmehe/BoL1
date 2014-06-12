@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <versionInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Version>1.07</Version>
+  <Version>1.08</Version>
   <MessageID>ID1</MessageID><!-- AlwaysShow -->
-  <Message>OnSendPacket and OnRecvPacket are fixed now, so all should be working again, restart your BoL if not ;)</Message>
+  <Message></Message>
 </versionInfo>
